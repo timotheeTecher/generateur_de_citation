@@ -3,26 +3,26 @@ function genererNombreAleatoire(max) {
 }
 
 let premiereCitation  = "\"La vie est un mystère qu'il faut vivre, et non un problème à résoudre\"";
-let deuxiemeCitation  = "\"La ou la fé un lérèr ah ahahahahahahaha\"";
-let troisiemeCitation = "\"Chef ! Ou fé vélo ou ? Fé vélo ou ? Eske ou gainy cab-haut ?\"";
-let quatriemeCitation = "\"Aou Esteban ! Garde a mwin bien dan mon gueule la hin !\"";
-let cinquiemeCitation = "\"Ban trin koifé don ! Casse mon léfé !\"";
-let sixiemeCitation   = "\"Le chien i trap pa mwn\"";
-let septiemeCitation  = "\"Shaina ? Je peux te traper demain ?\"";
-let huitiemeCitation  = "\"Uii kel heure ?\"";
-let neuviemeCitation  = "\"Midi.\"";
-let dixiemeCitation   = "\"Et ma di aou un nafèr depuis talèr la woin woin woin, mais la ou pou baisse la queue alors ?\"";
+let deuxiemeCitation  = "\" L'homme est un loup pour l'homme.\"";
+let troisiemeCitation = "\"Rien de grand ne s'est accompli dans le monde sans passion.\"";
+let quatriemeCitation = "\" L'homme n'est pas né pour le repos.\"";
+let cinquiemeCitation = "\"Tout vrai regard est un désir.\"";
+let sixiemeCitation   = "\"À vaincre sans péril, on triomphe sans gloire.\"";
+let septiemeCitation  = "\"Ceux qui ne peuvent se souvenir du passé sont condamnés à le répéter.\"";
+let huitiemeCitation  = "\"Un problème sans solution est un problème mal posé.\"";
+let neuviemeCitation  = "\"Le courage n'est pas l'absence de peur, mais la capacité de vaincre ce qui fait peur.\"";
+let dixiemeCitation   = "\"Vis comme si tu devais mourir demain. Apprends comme si tu devais vivre toujours.\"";
 
 let premierAuteur     = "Gandhi";
-let deuxiemeAuteur    = "Georgio";
-let troisiemeAuteur   = "Lionel Messi";
-let quatriemeAuteur   = "Giovani di vani";
-let cinquiemeAuteur   = "Josian";
-let sixiemeAuteur     = "Le tangue 974";
-let septiemAuteur     = "Custom Car 974";
-let huitiemeAuteur    = "Shaina";
-let neuviemeAuteur    = "Custom Car 974";
-let dixiemeAuteur     = "Custom Car 974";
+let deuxiemeAuteur    = "Plaute";
+let troisiemeAuteur   = "Hegel";
+let quatriemeAuteur   = "Voltaire";
+let cinquiemeAuteur   = "Alfred de Musset";
+let sixiemeAuteur     = "Pierre Corneille";
+let septiemAuteur     = "George Santayana";
+let huitiemeAuteur    = "Albert Einstein";
+let neuviemeAuteur    = "Nelson Mandela";
+let dixiemeAuteur     = "Gandhi";
 
 let citations = [
     [premiereCitation, premierAuteur],
